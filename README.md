@@ -4,9 +4,9 @@
 Status](https://travis-ci.org/nhejazi/survtmle.svg?branch=develop)](https://travis-ci.org/nhejazi/survtmle)
 [![Coverage
 Status](https://coveralls.io/repos/github/nhejazi/survtmle/badge.svg?branch=develop)
+](https://coveralls.io/github/nhejazi/survtmle?branch=develop)
 [![MIT
 license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
-
 
 > Targeted Minimum Loss-Based Estimation (TMLE) for Survival Analysis and
 > Vaccine Sieve Analysis
